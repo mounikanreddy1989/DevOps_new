@@ -1,2 +1,6 @@
 git init - initialize the git
-git branch - to see the branch.
+git branch - to see the branch
+git checkout -b - to create new branch
+git add . - to add the untracked files
+git commit -m "to commit the files and message".
+
